@@ -9,6 +9,7 @@ package javaapplication4;
 /**
  *
  * @author ALK
+ * //bale berga la bida
  */
 public class Departamento_libros {
     public void recibir_duplicado(String duplicado)
